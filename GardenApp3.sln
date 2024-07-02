@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GardenApp3", "GardenApp3\GardenApp3.csproj", "{B614663E-70FD-48DB-9A64-639A007F7B4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GardenLibrary3", "GardenLibrary3\GardenLibrary3.csproj", "{9A45E467-B828-43D3-AB9A-51605784200F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B614663E-70FD-48DB-9A64-639A007F7B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B614663E-70FD-48DB-9A64-639A007F7B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B614663E-70FD-48DB-9A64-639A007F7B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B614663E-70FD-48DB-9A64-639A007F7B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A45E467-B828-43D3-AB9A-51605784200F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A45E467-B828-43D3-AB9A-51605784200F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A45E467-B828-43D3-AB9A-51605784200F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A45E467-B828-43D3-AB9A-51605784200F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEF8C3FB-3876-40E0-BBB2-310BBF84F4E7}
+	EndGlobalSection
+EndGlobal
